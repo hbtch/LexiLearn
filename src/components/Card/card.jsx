@@ -1,6 +1,7 @@
 import React from 'react';
 
-function Card() {
+
+function card() {
     return (
         <header>
             <h1></h1>
@@ -8,4 +9,4 @@ function Card() {
     );
 }
 
-export default Card;
+export default card;
